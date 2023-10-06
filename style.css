@@ -140,7 +140,7 @@ ul li a:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 5px;
+  padding: 12px;
   transition: background 0.2s;
   border-radius: 50%;
 }
